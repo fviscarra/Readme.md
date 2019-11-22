@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/fviscarra/Readme.md/issues"
   },
-  "homepage": "https://github.com/fviscarra/Readme.md#readme"
+  "homepage": "https://github.com/fviscarra/Readme.md#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
 }
