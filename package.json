@@ -20,7 +20,9 @@
   "homepage": "https://github.com/fviscarra/Readme.md#readme",
   "dependencies": {
     "bootstrap": "^4.3.1",
-    "parcel-bundler": "^1.12.4"
+    "jquery": "^3.4.1",
+    "parcel-bundler": "^1.12.4",
+    "popper.js": "^1.16.0"
   },
   "devDependencie": {
     "parcel-bundler": "^1.12.4"
