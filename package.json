@@ -1,0 +1,19 @@
+{
+  "name": "intro-react",
+  "version": "1.0.0",
+  "description": "- `npm install`\r - `npm start`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fviscarra/Readme.md.git"
+  },
+  "author": "viscarra fernando",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fviscarra/Readme.md/issues"
+  },
+  "homepage": "https://github.com/fviscarra/Readme.md#readme"
+}
